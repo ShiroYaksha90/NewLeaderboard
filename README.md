@@ -35,7 +35,9 @@ The leaderboard website displays scores submitted by different players. It also 
 - CSS
 - Javascript
 
-  ### Key Features <a name="key-features"></a>
+<!-- Key Features -->
+
+## Key Features <a name="key-features"></a>
 
 - Built with Webpack development environment
 - ES6 modules to write modular JavaScript.
